@@ -144,10 +144,6 @@ DIN A3, landscape with extra doc field</description>
 <sheets>
 <sheet>
 <plain>
-<wire x1="35.56" y1="218.44" x2="35.56" y2="127" width="0.1524" layer="97"/>
-<wire x1="35.56" y1="127" x2="119.38" y2="127" width="0.1524" layer="97"/>
-<wire x1="119.38" y1="127" x2="119.38" y2="218.44" width="0.1524" layer="97"/>
-<wire x1="119.38" y1="218.44" x2="35.56" y2="218.44" width="0.1524" layer="97"/>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
